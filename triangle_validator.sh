@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Hello, this program is checking that if your triangle is valid or not"
-echo "Please input your side lengths."
+echo "Hello, this program is checking that if your triangle is valid or not."
+echo "Please enter your side lengths."
 echo "A?"
 read a
 echo "B?"
