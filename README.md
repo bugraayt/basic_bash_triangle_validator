@@ -1,6 +1,9 @@
-v1.0
-This is my basic triangle validator project.
+# Triangle Validator v1.0
 
-I made it to practice 'If' and 'While' statements in Bash language.
+This is a simple triangle validator I made in Bash.  
+I wrote it to practice using **if** and **while** statements.
 
-I will improve this project by using functions, writing the code cleaner and maybe make it more complex.
+It asks the user to enter three side lengths and checks if they can form a valid triangle.  
+If the inputs aren’t numbers, it will ask again until valid numbers are entered.
+
+In the future, I plan to make the code cleaner by using functions and maybe add some extra features to make it more interesting.
