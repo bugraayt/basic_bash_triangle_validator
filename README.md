@@ -8,4 +8,17 @@ If the inputs aren’t numbers, it will ask again until valid numbers are entere
 
 In the future, I plan to make the code cleaner by using functions and maybe add some extra features to make it more interesting.
 
+## Example Output
+```
+Hello, this program is checking that if your triangle is valid or not.
+Please enter your side lengths.
+A?
+2
+B?
+2
+C?
+2
+Your values are a=2, b=2, c=2.
+This is a valid triangle.
+```
 Bugra Ayten
